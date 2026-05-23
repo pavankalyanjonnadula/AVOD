@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		120A33422FC1FFA000926D3E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 120A33412FC1FFA000926D3E /* README.md */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		120A32732FC085B800926D3E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -31,7 +27,6 @@
 		120A32652FC085B500926D3E /* AVOD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVOD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		120A32722FC085B800926D3E /* AVODTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVODTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		120A327C2FC085B800926D3E /* AVODUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVODUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		120A33412FC1FFA000926D3E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -84,7 +79,6 @@
 				120A32752FC085B800926D3E /* AVODTests */,
 				120A327F2FC085B800926D3E /* AVODUITests */,
 				120A32662FC085B500926D3E /* Products */,
-				120A33412FC1FFA000926D3E /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -219,7 +213,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				120A33422FC1FFA000926D3E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
